@@ -1,0 +1,20 @@
+Используя JSON пример JsonExample.txt и JSONPath online evaluator https://jsonpath.com/ написать JsonPath для следующих заданий:
+
+Вывести на экран список объектов стран из JSON:
+$.data.results[*].name
+Вывести на экран список имён стран расположенных в "Caribbean" саб регионе("geographicSubRegionCode"):
+$..results[?(@.geographicSubRegionCode.name=='Caribbean')].name
+Вывести на экран "id" для страны "Bosnia and Herzegovina":
+$..results[?(@.name=='Bosnia and Herzegovina')].id
+Вывести на экран список саб регионов:
+$.data.results[*].geographicSubRegionCode.name
+Вывести на экран имя "name" страны с кодом("codeNumeric") 166:
+$..results[?(@.codeNumeric=='166')].name
+Вывести на экран общее количество стран ("totalCount"):
+$..totalCount
+Вывести на экран все имена полей("fields"):
+$..fields[*].name
+Вывести на экран имена всех стран у которых codeNumeric >500:
+$..results[?(@.codeNumeric>'166')].name
+Вывести на экран id всех стран у которых codeNumeric > 100 и < 200:
+$..results[?(@.codeNumeric>100 && @.codeNumeric<200)].id

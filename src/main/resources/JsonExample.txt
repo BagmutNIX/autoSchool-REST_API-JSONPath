@@ -1,0 +1,2959 @@
+{
+  "version": "1.0",
+  "message": null,
+  "data": {
+    "results": [
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "createdDate": "2019-07-18T19:18:22Z",
+        "modifiedDate": "2019-07-18T19:18:22Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AF",
+        "codeAlpha3": "AFG",
+        "codeNumeric": 4,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 7,
+          "name": "Southern Asia",
+          "active": true,
+          "data": "034"
+        },
+        "id": "000DAAAA0000000000001993",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Afghanistan",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "createdDate": "2019-07-18T19:18:22Z",
+        "modifiedDate": "2019-07-18T19:18:22Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AX",
+        "codeAlpha3": "ALA",
+        "codeNumeric": 248,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 12,
+          "name": "Northern Europe",
+          "active": true,
+          "data": "154"
+        },
+        "id": "000DAAAA0000000000001995",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Åland Islands",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AL",
+        "codeAlpha3": "ALB",
+        "codeNumeric": 8,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 13,
+          "name": "Southern Europe",
+          "active": true,
+          "data": "039"
+        },
+        "id": "000DAAAA0000000000001997",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Albania",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "DZ",
+        "codeAlpha3": "DZA",
+        "codeNumeric": 12,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 16,
+          "name": "Northern Africa",
+          "active": true,
+          "data": "015"
+        },
+        "id": "000DAAAA0000000000001999",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Algeria",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AS",
+        "codeAlpha3": "ASM",
+        "codeNumeric": 16,
+        "geographicRegionCode": {
+          "id": 4,
+          "name": "Oceania",
+          "active": true,
+          "data": "009",
+          "children": [
+            {
+              "id": 22,
+              "name": "Australia and New Zealand",
+              "active": true,
+              "data": "053"
+            },
+            {
+              "id": 23,
+              "name": "Melanesia",
+              "active": true,
+              "data": "054"
+            },
+            {
+              "id": 24,
+              "name": "Micronesia",
+              "active": true,
+              "data": "057"
+            },
+            {
+              "id": 21,
+              "name": "Polynesia",
+              "active": true,
+              "data": "061"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 21,
+          "name": "Polynesia",
+          "active": true,
+          "data": "061"
+        },
+        "id": "000DAAAA000000000000199B",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "American Samoa",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AD",
+        "codeAlpha3": "AND",
+        "codeNumeric": 20,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 13,
+          "name": "Southern Europe",
+          "active": true,
+          "data": "039"
+        },
+        "id": "000DAAAA000000000000199D",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Andorra",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AO",
+        "codeAlpha3": "AGO",
+        "codeNumeric": 24,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 17,
+          "name": "Middle Africa",
+          "active": true,
+          "data": "017"
+        },
+        "id": "000DAAAA000000000000199F",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Angola",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AI",
+        "codeAlpha3": "AIA",
+        "codeNumeric": 660,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019A1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Anguilla",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AQ",
+        "codeAlpha3": "ATA",
+        "codeNumeric": 10,
+        "geographicRegionCode": {
+          "id": 6,
+          "name": "Unknown",
+          "active": true,
+          "data": "000",
+          "children": [
+            {
+              "id": 29,
+              "name": "Unknown",
+              "active": true,
+              "data": "000"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 29,
+          "name": "Unknown",
+          "active": true,
+          "data": "000"
+        },
+        "id": "000DAAAA00000000000019A3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Antarctica",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AG",
+        "codeAlpha3": "ATG",
+        "codeNumeric": 28,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019A5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Antigua and Barbuda",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AR",
+        "codeAlpha3": "ARG",
+        "codeNumeric": 32,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 26,
+          "name": "South America",
+          "active": true,
+          "data": "005"
+        },
+        "id": "000DAAAA00000000000019A7",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Argentina",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AM",
+        "codeAlpha3": "ARM",
+        "codeNumeric": 51,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 8,
+          "name": "Western Asia",
+          "active": true,
+          "data": "145"
+        },
+        "id": "000DAAAA00000000000019A9",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Armenia",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AW",
+        "codeAlpha3": "ABW",
+        "codeNumeric": 533,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019AB",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Aruba",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AU",
+        "codeAlpha3": "AUS",
+        "codeNumeric": 36,
+        "geographicRegionCode": {
+          "id": 4,
+          "name": "Oceania",
+          "active": true,
+          "data": "009",
+          "children": [
+            {
+              "id": 22,
+              "name": "Australia and New Zealand",
+              "active": true,
+              "data": "053"
+            },
+            {
+              "id": 23,
+              "name": "Melanesia",
+              "active": true,
+              "data": "054"
+            },
+            {
+              "id": 24,
+              "name": "Micronesia",
+              "active": true,
+              "data": "057"
+            },
+            {
+              "id": 21,
+              "name": "Polynesia",
+              "active": true,
+              "data": "061"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 22,
+          "name": "Australia and New Zealand",
+          "active": true,
+          "data": "053"
+        },
+        "id": "000DAAAA00000000000019AD",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Australia",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AT",
+        "codeAlpha3": "AUT",
+        "codeNumeric": 40,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 14,
+          "name": "Western Europe",
+          "active": true,
+          "data": "155"
+        },
+        "id": "000DAAAA00000000000019AF",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Austria",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "AZ",
+        "codeAlpha3": "AZE",
+        "codeNumeric": 31,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 8,
+          "name": "Western Asia",
+          "active": true,
+          "data": "145"
+        },
+        "id": "000DAAAA00000000000019B1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Azerbaijan",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BS",
+        "codeAlpha3": "BHS",
+        "codeNumeric": 44,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019B3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bahamas",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BH",
+        "codeAlpha3": "BHR",
+        "codeNumeric": 48,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 8,
+          "name": "Western Asia",
+          "active": true,
+          "data": "145"
+        },
+        "id": "000DAAAA00000000000019B5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bahrain",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BD",
+        "codeAlpha3": "BGD",
+        "codeNumeric": 50,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 7,
+          "name": "Southern Asia",
+          "active": true,
+          "data": "034"
+        },
+        "id": "000DAAAA00000000000019B7",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bangladesh",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BB",
+        "codeAlpha3": "BRB",
+        "codeNumeric": 52,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019B9",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Barbados",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BY",
+        "codeAlpha3": "BLR",
+        "codeNumeric": 112,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 15,
+          "name": "Eastern Europe",
+          "active": true,
+          "data": "151"
+        },
+        "id": "000DAAAA00000000000019BB",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Belarus",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BE",
+        "codeAlpha3": "BEL",
+        "codeNumeric": 56,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 14,
+          "name": "Western Europe",
+          "active": true,
+          "data": "155"
+        },
+        "id": "000DAAAA00000000000019BD",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Belgium",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BZ",
+        "codeAlpha3": "BLZ",
+        "codeNumeric": 84,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 27,
+          "name": "Central America",
+          "active": true,
+          "data": "013"
+        },
+        "id": "000DAAAA00000000000019BF",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Belize",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BJ",
+        "codeAlpha3": "BEN",
+        "codeNumeric": 204,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 18,
+          "name": "Western Africa",
+          "active": true,
+          "data": "011"
+        },
+        "id": "000DAAAA00000000000019C1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Benin",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BM",
+        "codeAlpha3": "BMU",
+        "codeNumeric": 60,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 28,
+          "name": "Northern America",
+          "active": true,
+          "data": "021"
+        },
+        "id": "000DAAAA00000000000019C3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bermuda",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BT",
+        "codeAlpha3": "BTN",
+        "codeNumeric": 64,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 7,
+          "name": "Southern Asia",
+          "active": true,
+          "data": "034"
+        },
+        "id": "000DAAAA00000000000019C5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bhutan",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [
+          "Bolivia",
+          "Bolivia, Plurinational State Of"
+        ],
+        "certificationText": null,
+        "codeAlpha2": "BO",
+        "codeAlpha3": "BOL",
+        "codeNumeric": 68,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 26,
+          "name": "South America",
+          "active": true,
+          "data": "005"
+        },
+        "id": "000DAAAA00000000000019C7",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bolivia (Plurinational State of)",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BQ",
+        "codeAlpha3": "BES",
+        "codeNumeric": 535,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019C9",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BA",
+        "codeAlpha3": "BIH",
+        "codeNumeric": 70,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 13,
+          "name": "Southern Europe",
+          "active": true,
+          "data": "039"
+        },
+        "id": "000DAAAA00000000000019CB",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bosnia and Herzegovina",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BW",
+        "codeAlpha3": "BWA",
+        "codeNumeric": 72,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 19,
+          "name": "Southern Africa",
+          "active": true,
+          "data": "018"
+        },
+        "id": "000DAAAA00000000000019CD",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Botswana",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BV",
+        "codeAlpha3": "BVT",
+        "codeNumeric": 74,
+        "geographicRegionCode": {
+          "id": 6,
+          "name": "Unknown",
+          "active": true,
+          "data": "000",
+          "children": [
+            {
+              "id": 29,
+              "name": "Unknown",
+              "active": true,
+              "data": "000"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 29,
+          "name": "Unknown",
+          "active": true,
+          "data": "000"
+        },
+        "id": "000DAAAA00000000000019CF",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bouvet Island",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BR",
+        "codeAlpha3": "BRA",
+        "codeNumeric": 76,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 26,
+          "name": "South America",
+          "active": true,
+          "data": "005"
+        },
+        "id": "000DAAAA00000000000019D1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Brazil",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "IO",
+        "codeAlpha3": "IOT",
+        "codeNumeric": 86,
+        "geographicRegionCode": {
+          "id": 6,
+          "name": "Unknown",
+          "active": true,
+          "data": "000",
+          "children": [
+            {
+              "id": 29,
+              "name": "Unknown",
+              "active": true,
+              "data": "000"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 29,
+          "name": "Unknown",
+          "active": true,
+          "data": "000"
+        },
+        "id": "000DAAAA00000000000019D3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "British Indian Ocean Territory",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BN",
+        "codeAlpha3": "BRN",
+        "codeNumeric": 96,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 9,
+          "name": "South-Eastern Asia",
+          "active": true,
+          "data": "035"
+        },
+        "id": "000DAAAA00000000000019D5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Brunei Darussalam",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BG",
+        "codeAlpha3": "BGR",
+        "codeNumeric": 100,
+        "geographicRegionCode": {
+          "id": 2,
+          "name": "Europe",
+          "active": true,
+          "data": "150",
+          "children": [
+            {
+              "id": 15,
+              "name": "Eastern Europe",
+              "active": true,
+              "data": "151"
+            },
+            {
+              "id": 12,
+              "name": "Northern Europe",
+              "active": true,
+              "data": "154"
+            },
+            {
+              "id": 13,
+              "name": "Southern Europe",
+              "active": true,
+              "data": "039"
+            },
+            {
+              "id": 14,
+              "name": "Western Europe",
+              "active": true,
+              "data": "155"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 15,
+          "name": "Eastern Europe",
+          "active": true,
+          "data": "151"
+        },
+        "id": "000DAAAA00000000000019D7",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Bulgaria",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BF",
+        "codeAlpha3": "BFA",
+        "codeNumeric": 854,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 18,
+          "name": "Western Africa",
+          "active": true,
+          "data": "011"
+        },
+        "id": "000DAAAA00000000000019D9",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Burkina Faso",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:23Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "BI",
+        "codeAlpha3": "BDI",
+        "codeNumeric": 108,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 20,
+          "name": "Eastern Africa",
+          "active": true,
+          "data": "014"
+        },
+        "id": "000DAAAA00000000000019DB",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Burundi",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CV",
+        "codeAlpha3": "CPV",
+        "codeNumeric": 132,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 18,
+          "name": "Western Africa",
+          "active": true,
+          "data": "011"
+        },
+        "id": "000DAAAA00000000000019E3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Cabo Verde",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "KH",
+        "codeAlpha3": "KHM",
+        "codeNumeric": 116,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 9,
+          "name": "South-Eastern Asia",
+          "active": true,
+          "data": "035"
+        },
+        "id": "000DAAAA00000000000019DD",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Cambodia",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CM",
+        "codeAlpha3": "CMR",
+        "codeNumeric": 120,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 17,
+          "name": "Middle Africa",
+          "active": true,
+          "data": "017"
+        },
+        "id": "000DAAAA00000000000019DF",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Cameroon",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CA",
+        "codeAlpha3": "CAN",
+        "codeNumeric": 124,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 28,
+          "name": "Northern America",
+          "active": true,
+          "data": "021"
+        },
+        "id": "000DAAAA00000000000019E1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Canada",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "KY",
+        "codeAlpha3": "CYM",
+        "codeNumeric": 136,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 25,
+          "name": "Caribbean",
+          "active": true,
+          "data": "029"
+        },
+        "id": "000DAAAA00000000000019E5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Cayman Islands",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CF",
+        "codeAlpha3": "CAF",
+        "codeNumeric": 140,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 17,
+          "name": "Middle Africa",
+          "active": true,
+          "data": "017"
+        },
+        "id": "000DAAAA00000000000019E7",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Central African Republic",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "TD",
+        "codeAlpha3": "TCD",
+        "codeNumeric": 148,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 17,
+          "name": "Middle Africa",
+          "active": true,
+          "data": "017"
+        },
+        "id": "000DAAAA00000000000019E9",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Chad",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CL",
+        "codeAlpha3": "CHL",
+        "codeNumeric": 152,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 26,
+          "name": "South America",
+          "active": true,
+          "data": "005"
+        },
+        "id": "000DAAAA00000000000019EB",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Chile",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CN",
+        "codeAlpha3": "CHN",
+        "codeNumeric": 156,
+        "geographicRegionCode": {
+          "id": 1,
+          "name": "Asia",
+          "active": true,
+          "data": "142",
+          "children": [
+            {
+              "id": 11,
+              "name": "Central Asia",
+              "active": true,
+              "data": "143"
+            },
+            {
+              "id": 10,
+              "name": "Eastern Asia",
+              "active": true,
+              "data": "030"
+            },
+            {
+              "id": 9,
+              "name": "South-Eastern Asia",
+              "active": true,
+              "data": "035"
+            },
+            {
+              "id": 7,
+              "name": "Southern Asia",
+              "active": true,
+              "data": "034"
+            },
+            {
+              "id": 8,
+              "name": "Western Asia",
+              "active": true,
+              "data": "145"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 10,
+          "name": "Eastern Asia",
+          "active": true,
+          "data": "030"
+        },
+        "id": "000DAAAA00000000000019ED",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "China",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CX",
+        "codeAlpha3": "CXR",
+        "codeNumeric": 162,
+        "geographicRegionCode": {
+          "id": 6,
+          "name": "Unknown",
+          "active": true,
+          "data": "000",
+          "children": [
+            {
+              "id": 29,
+              "name": "Unknown",
+              "active": true,
+              "data": "000"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 29,
+          "name": "Unknown",
+          "active": true,
+          "data": "000"
+        },
+        "id": "000DAAAA00000000000019EF",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Christmas Island",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CC",
+        "codeAlpha3": "CCK",
+        "codeNumeric": 166,
+        "geographicRegionCode": {
+          "id": 6,
+          "name": "Unknown",
+          "active": true,
+          "data": "000",
+          "children": [
+            {
+              "id": 29,
+              "name": "Unknown",
+              "active": true,
+              "data": "000"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 29,
+          "name": "Unknown",
+          "active": true,
+          "data": "000"
+        },
+        "id": "000DAAAA00000000000019F1",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Cocos (Keeling) Islands",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "CO",
+        "codeAlpha3": "COL",
+        "codeNumeric": 170,
+        "geographicRegionCode": {
+          "id": 5,
+          "name": "Americas",
+          "active": true,
+          "data": "019",
+          "children": [
+            {
+              "id": 25,
+              "name": "Caribbean",
+              "active": true,
+              "data": "029"
+            },
+            {
+              "id": 27,
+              "name": "Central America",
+              "active": true,
+              "data": "013"
+            },
+            {
+              "id": 28,
+              "name": "Northern America",
+              "active": true,
+              "data": "021"
+            },
+            {
+              "id": 26,
+              "name": "South America",
+              "active": true,
+              "data": "005"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 26,
+          "name": "South America",
+          "active": true,
+          "data": "005"
+        },
+        "id": "000DAAAA00000000000019F3",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Colombia",
+        "regionCode": []
+      },
+      {
+        "aclId": "0021AAAA0000000000001901",
+        "modifiedDate": "2019-07-18T19:18:24Z",
+        "aliases": [],
+        "certificationText": null,
+        "codeAlpha2": "KM",
+        "codeAlpha3": "COM",
+        "codeNumeric": 174,
+        "geographicRegionCode": {
+          "id": 3,
+          "name": "Africa",
+          "active": true,
+          "data": "002",
+          "children": [
+            {
+              "id": 20,
+              "name": "Eastern Africa",
+              "active": true,
+              "data": "014"
+            },
+            {
+              "id": 17,
+              "name": "Middle Africa",
+              "active": true,
+              "data": "017"
+            },
+            {
+              "id": 16,
+              "name": "Northern Africa",
+              "active": true,
+              "data": "015"
+            },
+            {
+              "id": 19,
+              "name": "Southern Africa",
+              "active": true,
+              "data": "018"
+            },
+            {
+              "id": 18,
+              "name": "Western Africa",
+              "active": true,
+              "data": "011"
+            }
+          ]
+        },
+        "geographicSubRegionCode": {
+          "id": 20,
+          "name": "Eastern Africa",
+          "active": true,
+          "data": "014"
+        },
+        "id": "000DAAAA00000000000019F5",
+        "orgId": "tenant1",
+        "permissions": 209,
+        "revision": 0,
+        "typeName": "wspt_country",
+        "name": "Comoros",
+        "regionCode": []
+      }
+    ],
+    "facets": [
+      {
+        "id": "geographic_region_code",
+        "displayName": "Geographic Region",
+        "opened": false,
+        "clientFieldName": "geographicRegionCode",
+        "filters": [],
+        "controlName": ""
+      },
+      {
+        "id": "geographic_sub_region_code",
+        "displayName": "Sub Region",
+        "opened": false,
+        "clientFieldName": "geographicSubRegionCode",
+        "filters": [],
+        "controlName": ""
+      },
+      {
+        "id": "region_code",
+        "displayName": "Region Code",
+        "opened": false,
+        "clientFieldName": "regionCode",
+        "filters": [],
+        "controlName": ""
+      }
+    ],
+    "searchText": "",
+    "compressedRequestData": "JNZ4H4sIAAAAAAAAAKWQvQrCQBCE32XrK6zTqViIYGGijYRw3k1%2BIN6F20tQQt7d1YidhdjtfjszMDsSQwdTZ7hFSogURZnSmd07CFtm2WG7OmabVK6lNohr72wTG%2B%2BYkvM4s60VaQVfBd3VjSkCKhEUxluIjdHCxJNuezw9uSLfwUE8pW4Zk%2FqSwv3ln6TfrALYh7jDfe5lNCOFY6k64C1SZBFktZ%2FdByGUjDQ8gylZKHL6%2BnocG8ijXEWTIuPb%2Fur28%2BUlmPLpAYY7U3t%2BAQAA",
+    "resultCount": 50,
+    "totalCount": 250,
+    "startIndex": 0,
+    "pageSize": 50,
+    "hasMoreResults": true,
+    "sortKeys": [
+      {
+        "caseSensitive": false,
+        "derived": false,
+        "order": {
+          "value": 0,
+          "name": "Ascending"
+        },
+        "columnName": "name"
+      }
+    ]
+  },
+  "totalCount": 250,
+  "metaData": {
+    "root": "data",
+    "idProperty": "id",
+    "nameProperty": "name",
+    "messageProperty": "message",
+    "totalProperty": "totalCount",
+    "fields": [
+      {
+        "name": "aclId",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "aclName",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "aliases",
+        "type": "AUTO",
+        "array": true,
+        "allowBlank": true,
+        "sortable": false,
+        "useNull": true
+      },
+      {
+        "name": "certificationText",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "codeAlpha2",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "codeAlpha3",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "codeNumeric",
+        "type": "INT",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "createdBy",
+        "type": "AUTO",
+        "array": false,
+        "allowBlank": true,
+        "sortable": false,
+        "useNull": true
+      },
+      {
+        "name": "createdDate",
+        "type": "DATE",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "geographicRegionCode",
+        "type": "AUTO",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "geographicSubRegionCode",
+        "type": "AUTO",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "id",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "modifiedBy",
+        "type": "AUTO",
+        "array": false,
+        "allowBlank": true,
+        "sortable": false,
+        "useNull": true
+      },
+      {
+        "name": "modifiedDate",
+        "type": "DATE",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "name",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "orgId",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "permissions",
+        "type": "INT",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "regionCode",
+        "type": "AUTO",
+        "array": true,
+        "allowBlank": true,
+        "sortable": false,
+        "useNull": true
+      },
+      {
+        "name": "revision",
+        "type": "INT",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      },
+      {
+        "name": "typeName",
+        "type": "STRING",
+        "array": false,
+        "allowBlank": true,
+        "sortable": true,
+        "useNull": true
+      }
+    ]
+  },
+  "timestamp": "2019-09-27T09:30:14Z",
+  "context": "b18ea560-323c-4456-aadd-aa581e9ac467"
+}
