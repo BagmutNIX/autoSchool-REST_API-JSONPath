@@ -2,6 +2,15 @@ import io.restassured.RestAssured;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.Properties;
+
 public class AutoriaAPITest {
 
     @Test(dataProvider = "url")
@@ -18,16 +27,25 @@ public class AutoriaAPITest {
     }
 
     @DataProvider(name = "url")
-    public Object[] url() {
-        return new String[]{
-                "/auto_mitsubishi_lancer_21990745.html",
-                "/auto_toyota_camry_22101863.html",
-                "/auto_bmw_520_21996828.html",
-                "/auto_nissan_leaf_22104675.html",
-                "/auto_nissan_leaf_22104647.html",
-                "/auto_mercedes_benz_e_220_21994701.html",
-                "/auto_lexus_nx_200_22083607.html"
-        };
+    public Object[] url() throws IOException {
+        Properties properties = new Properties();
+        String file = properties.getProperty("data.dir") + "/automationpractice-auth-data.csv";
+        FileReader fr = new FileReader(file);
+        BufferedReader br = new BufferedReader(fr);
+        List<String> data = new ArrayList<>();
+        String line;
+        while ((line = br.readLine()) != null) {
+            if (!line.trim().startsWith("#"))
+                data.add(line);
+        }
+        br.close();
+        fr.close();
+
+        Object[][] result = new Object[data.size()][3];
+        for (int i = 0; i < data.size(); i++) {
+            result[i] = data.get(i).split(",");
+        }
+        return result;
     }
 }
 
