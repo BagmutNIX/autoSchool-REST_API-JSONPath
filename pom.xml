@@ -30,23 +30,27 @@
     </build>
 
     <dependencies>
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>${testng.version}</version>
         </dependency>
+
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
             <version>4.3.0</version>
             <scope>test</scope>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.json/json -->
-        <!--        <dependency>
-                    <groupId>org.json</groupId>
-                    <artifactId>json</artifactId>
-                    <version>20200518</version>
-                </dependency>-->
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-csv</artifactId>
+            <version>1.8</version>
+            <scope>test</scope>
+        </dependency>
+
     </dependencies>
 
 </project>

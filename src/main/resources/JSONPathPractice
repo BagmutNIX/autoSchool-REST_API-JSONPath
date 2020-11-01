@@ -9,7 +9,7 @@ $..results[?(@.name=='Bosnia and Herzegovina')].id
 4) Вывести на экран список саб регионов:
 $.data.results[*].geographicSubRegionCode.name
 5) Вывести на экран имя "name" страны с кодом("codeNumeric") 166:
-$..results[?(@.codeNumeric=='166')].name
+$..results[?(@.codeNumeric==166)].name
 6) Вывести на экран общее количество стран ("totalCount"):
 $.data.totalCount
 7) Вывести на экран все имена полей("fields"):

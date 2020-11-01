@@ -1,52 +1,37 @@
 import io.restassured.RestAssured;
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVRecord;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.Reader;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
-import java.util.Properties;
 
 public class AutoriaAPITest {
-
     @Test(dataProvider = "url")
     public void autoriaAPITest(String url) {
         RestAssured.given()
-                .baseUri("https://auto.ria.com")
-                .basePath(url)
+                .baseUri(url)
                 .header("User-Agent", "Jmeter")
                 .when().get()
                 .then()
-                .statusCode(200)
+                .statusCode(400)
                 .contentType("text/html")
                 .header("Content-Encoding", "gzip");
     }
 
     @DataProvider(name = "url")
-    public Object[] url() throws IOException {
-        Properties properties = new Properties();
-        String file = properties.getProperty("data.dir") + "/automationpractice-auth-data.csv";
-        FileReader fr = new FileReader(file);
-        BufferedReader br = new BufferedReader(fr);
-        List<String> data = new ArrayList<>();
-        String line;
-        while ((line = br.readLine()) != null) {
-            if (!line.trim().startsWith("#"))
-                data.add(line);
+    public Object[] getDataFromDataProvider() throws IOException {
+        List<String> linksList = new ArrayList();
+        Reader file = new FileReader("src/main/resources/autoria_API_links.csv");
+        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(file);
+        for (CSVRecord record : records) {
+            String columnOne = record.get(0);
+            linksList.add(columnOne);
         }
-        br.close();
-        fr.close();
-
-        Object[][] result = new Object[data.size()][3];
-        for (int i = 0; i < data.size(); i++) {
-            result[i] = data.get(i).split(",");
-        }
-        return result;
+        return linksList.toArray();
     }
 }
-
-
