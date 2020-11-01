@@ -10,17 +10,19 @@ import java.io.Reader;
 import java.util.ArrayList;
 import java.util.List;
 
+import static constants.RequestDetails.*;
+
 public class AutoriaAPITest {
     @Test(dataProvider = "url")
     public void autoriaAPITest(String url) {
         RestAssured.given()
                 .baseUri(url)
-                .header("User-Agent", "Jmeter")
+                .header(HEADER_NAME, HEADER_VALUE)
                 .when().get()
                 .then()
-                .statusCode(400)
-                .contentType("text/html")
-                .header("Content-Encoding", "gzip");
+                .statusCode(200)
+                .contentType(CONTENT_TYPE)
+                .header(CONTENT_ENCODING, HEADER_VALUE_EXPECTED);
     }
 
     @DataProvider(name = "url")
