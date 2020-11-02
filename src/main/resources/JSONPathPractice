@@ -17,5 +17,4 @@ $..fields[*].name
 8) Вывести на экран имена всех стран у которых codeNumeric >500:
 $..results[?(@.codeNumeric>500)].name
 9) Вывести на экран id всех стран у которых codeNumeric > 100 и < 200:
-$..results[?(@.codeNumeric>100 && @.codeNumeric<200)]..children..id  //ничего умнее не придумала...
-OLD SOLUTION: $..results[?(@.codeNumeric>100 && @.codeNumeric<200)].id
+$..results[?(@.codeNumeric>100 && @.codeNumeric<200)].id
