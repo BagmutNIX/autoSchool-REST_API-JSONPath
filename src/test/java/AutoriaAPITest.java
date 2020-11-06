@@ -1,14 +1,13 @@
 import io.restassured.RestAssured;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVRecord;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import java.io.FileReader;
 import java.io.IOException;
-import java.io.Reader;
-import java.util.ArrayList;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import static constants.RequestDetails.*;
 
@@ -27,13 +26,13 @@ public class AutoriaAPITest {
 
     @DataProvider(name = "url")
     public Object[] getDataFromDataProvider() throws IOException {
-        List<String> linksList = new ArrayList();
-        Reader file = new FileReader("src/main/resources/autoria_API_links.csv");
-        Iterable<CSVRecord> records = CSVFormat.DEFAULT.parse(file);
-        for (CSVRecord record : records) {
-            String columnOne = record.get(0);
-            linksList.add(columnOne);
+        List<String> linksList = null;
+        try (Stream<String> stream = Files.lines(Paths.get("src/main/resources/autoria_API_links.csv"))) {
+            linksList = stream.collect(Collectors.toList());
+        } catch (IOException e) {
+            e.printStackTrace();
         }
+        linksList.forEach(System.out::println);
         return linksList.toArray();
     }
 }
