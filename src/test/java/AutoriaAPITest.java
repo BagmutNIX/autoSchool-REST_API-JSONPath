@@ -26,13 +26,13 @@ public class AutoriaAPITest {
 
     @DataProvider(name = "url")
     public Object[] getDataFromDataProvider() throws IOException {
-        List<String> linksList = null;
+        List<String> urlsList = null;
         try (Stream<String> stream = Files.lines(Paths.get("src/main/resources/autoria_API_links.csv"))) {
-            linksList = stream.collect(Collectors.toList());
+            urlsList = stream.collect(Collectors.toList());
         } catch (IOException e) {
             e.printStackTrace();
         }
-        linksList.forEach(System.out::println);
-        return linksList.toArray();
+        urlsList.forEach(System.out::println);
+        return urlsList.toArray();
     }
 }
